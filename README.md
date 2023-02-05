@@ -11,8 +11,8 @@ Simplifying JavaScript for beginners
 
      - Variables and data types
 
-     _ Operators and expressions
+     - Operators and expressions
 
-     _ Control structures (if/else, for, while)
+     - Control structures (if/else, for, while)
 
 Functions.
